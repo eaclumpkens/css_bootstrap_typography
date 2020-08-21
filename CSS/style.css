@@ -1,0 +1,68 @@
+HTML STYLIZATION
+
+* {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+body {
+    margin: 0 auto;
+    width: 50%;
+}
+
+p {
+    font-size: 15px;
+    line-height: 25px;
+}
+
+/* CONTENT STYLIZATION */
+
+h1 {
+    font-size: 65px;
+}
+
+h3 {
+    font-size: 25px;
+   letter-spacing: 4px; 
+   font-weight: 200;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+.header {
+    font-family: 'Libre Caslon Display', serif;
+    margin: 20px 0px;
+}
+
+.strong {
+    font-weight: 800;
+}
+
+.enlarge {
+    font-size: 24px;
+}
+
+.height {
+    line-height: 50px;
+}
+
+footer {
+    height: 50px;
+}
+
+/* BUTTON STYLIZATION */
+
+button {
+    margin-top: 2.5px;
+}
+
+button:hover {
+    cursor: pointer;
+    color: black;
+    letter-spacing: 5px;
+}
+
+button:focus {
+    letter-spacing: 5px;
+}
